@@ -1,0 +1,23 @@
+[
+	{
+		"_id": "62fd0727ee01b39867e35384",
+		"username": "maayan",
+		"password": "$2b$10$SvZvu6cqYHtA51AJp6qE0uX/u.elGuNjDM1Wi2bJtMjoWoVrv2hnK",
+		"fullname": "maayan",
+		"imgUrl": null
+	},
+	{
+		"_id": "62fd0771ee01b39867e35386",
+		"username": "the king",
+		"password": "$2b$10$GKzCtCGU4xkL85ylQjVZK.KMVTmZGV5ndRcF5Mv6mJp7DzDGA4i/2",
+		"fullname": "elvis",
+		"imgUrl": null
+	},
+	{
+		"_id": "62fe0014d8a5c09dbdb4bad4",
+		"username": "prince",
+		"password": "$2b$10$FR8lmtoijUNBRt27WrEuNudh6h.rcF1m9Qof4bXqP8kMWRQ2vULbi",
+		"fullname": "prince",
+		"imgUrl": null
+	}
+]
