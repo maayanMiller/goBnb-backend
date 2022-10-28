@@ -5628,3 +5628,673 @@
 22.10.2022, 18:17:48 - INFO - New connected socket [id: aLo4L-BVBvqy2C9LAAAF] 
 22.10.2022, 18:24:16 - INFO - Socket disconnected [id: undefined] 
 22.10.2022, 18:24:17 - INFO - New connected socket [id: ImsezmKXb4C7BJnrAAAH] 
+22.10.2022, 18:50:41 - INFO - Server is running on port: 3030 
+22.10.2022, 18:50:41 - INFO - New connected socket [id: zQn8cOVhhviRk0OvAAAB] 
+22.10.2022, 18:51:16 - INFO - Socket disconnected [id: undefined] 
+22.10.2022, 18:51:17 - INFO - New connected socket [id: 0w0LlWtHMAYzp246AAAD] 
+22.10.2022, 18:51:51 - DEBUG - auth.service - login with username: maayan 
+22.10.2022, 18:51:51 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} 
+22.10.2022, 18:51:51 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: 0w0LlWtHMAYzp246AAAD] 
+22.10.2022, 18:52:19 - INFO - Socket disconnected [id: undefined] 
+22.10.2022, 18:52:21 - INFO - New connected socket [id: n6o1pam2UnJBuwQSAAAF] 
+22.10.2022, 18:52:21 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: n6o1pam2UnJBuwQSAAAF] 
+22.10.2022, 18:53:17 - INFO - Socket disconnected [id: undefined] 
+22.10.2022, 18:53:52 - INFO - New connected socket [id: Rp3MFtMWDv9YNMdNAAAH] 
+22.10.2022, 20:18:20 - INFO - Removing socket.userId for socket [id: Rp3MFtMWDv9YNMdNAAAH] 
+22.10.2022, 20:18:21 - INFO - Removing socket.userId for socket [id: Rp3MFtMWDv9YNMdNAAAH] 
+22.10.2022, 20:18:32 - DEBUG - auth.service - login with username: the king 
+22.10.2022, 20:18:32 - INFO - User login:  | {"_id":"62fd0771ee01b39867e35386","username":"the king","fullname":"elvis","imgUrl":null} 
+22.10.2022, 20:18:32 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: Rp3MFtMWDv9YNMdNAAAH] 
+22.10.2022, 20:31:07 - INFO - Socket disconnected [id: undefined] 
+22.10.2022, 20:31:08 - INFO - New connected socket [id: F3LebOQL8WpSCo8OAAAJ] 
+22.10.2022, 20:31:08 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: F3LebOQL8WpSCo8OAAAJ] 
+22.10.2022, 20:35:21 - INFO - New connected socket [id: DiZeHF4qQ5N85dE9AAAL] 
+22.10.2022, 20:40:50 - INFO - Removing socket.userId for socket [id: F3LebOQL8WpSCo8OAAAJ] 
+22.10.2022, 20:40:53 - INFO - Removing socket.userId for socket [id: F3LebOQL8WpSCo8OAAAJ] 
+22.10.2022, 20:40:54 - INFO - Removing socket.userId for socket [id: F3LebOQL8WpSCo8OAAAJ] 
+22.10.2022, 20:40:54 - INFO - Removing socket.userId for socket [id: F3LebOQL8WpSCo8OAAAJ] 
+22.10.2022, 20:40:56 - INFO - Socket disconnected [id: undefined] 
+22.10.2022, 20:40:56 - INFO - New connected socket [id: C9bjEFZZj9vSkuvSAAAN] 
+22.10.2022, 21:10:01 - INFO - Socket disconnected [id: undefined] 
+22.10.2022, 21:10:02 - INFO - New connected socket [id: OUfqnYw-um6-fMFtAAAP] 
+22.10.2022, 21:15:20 - INFO - Socket disconnected [id: undefined] 
+22.10.2022, 21:15:21 - INFO - New connected socket [id: WLRCxboX3opbatLaAAAR] 
+22.10.2022, 21:15:54 - INFO - Socket disconnected [id: undefined] 
+22.10.2022, 21:15:55 - INFO - New connected socket [id: FdPe77rhz2mGWBO5AAAT] 
+22.10.2022, 21:23:50 - DEBUG - auth.service - login with username: user1 
+22.10.2022, 21:23:50 - ERROR - Failed to Login Invalid username or password 
+22.10.2022, 21:23:52 - DEBUG - auth.service - login with username: maayan 
+22.10.2022, 21:23:52 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} 
+22.10.2022, 21:23:52 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: FdPe77rhz2mGWBO5AAAT] 
+22.10.2022, 21:24:54 - INFO - Removing socket.userId for socket [id: FdPe77rhz2mGWBO5AAAT] 
+22.10.2022, 21:25:01 - DEBUG - auth.service - login with username: maayan 
+22.10.2022, 21:25:01 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} 
+22.10.2022, 21:25:01 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: FdPe77rhz2mGWBO5AAAT] 
+22.10.2022, 21:52:04 - INFO - Removing socket.userId for socket [id: FdPe77rhz2mGWBO5AAAT] 
+22.10.2022, 21:52:22 - DEBUG - auth.service - login with username: maayan 
+22.10.2022, 21:52:22 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} 
+22.10.2022, 21:52:22 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: FdPe77rhz2mGWBO5AAAT] 
+22.10.2022, 21:55:14 - INFO - Removing socket.userId for socket [id: FdPe77rhz2mGWBO5AAAT] 
+22.10.2022, 22:14:39 - INFO - Socket disconnected [id: undefined] 
+22.10.2022, 22:14:40 - INFO - Socket disconnected [id: undefined] 
+22.10.2022, 22:14:43 - INFO - New connected socket [id: qaUOLv7it-z8lU8AAAAW] 
+22.10.2022, 22:14:44 - INFO - New connected socket [id: 4m9aHtMQfxdeW86GAAAX] 
+22.10.2022, 22:36:38 - INFO - Socket disconnected [id: undefined] 
+22.10.2022, 22:36:39 - INFO - New connected socket [id: zwFBfIvn3ZUstRwUAAAZ] 
+22.10.2022, 22:37:08 - INFO - Socket disconnected [id: undefined] 
+22.10.2022, 22:37:09 - INFO - New connected socket [id: p9yqXDxbg5WC8OtAAAAb] 
+22.10.2022, 22:48:54 - INFO - Socket disconnected [id: undefined] 
+22.10.2022, 22:48:55 - INFO - New connected socket [id: iVUaCLE-jUrsxl0RAAAd] 
+22.10.2022, 22:49:11 - INFO - Socket disconnected [id: undefined] 
+22.10.2022, 22:49:11 - INFO - New connected socket [id: wcqoPlwZbcZJopmEAAAf] 
+22.10.2022, 22:50:45 - INFO - Socket disconnected [id: undefined] 
+22.10.2022, 22:50:45 - INFO - Socket disconnected [id: undefined] 
+22.10.2022, 22:50:47 - INFO - New connected socket [id: G8TDkNb0J8u9ToT7AAAi] 
+22.10.2022, 22:50:47 - INFO - New connected socket [id: tHJ78DUjJM-dYg6QAAAj] 
+22.10.2022, 23:05:00 - INFO - Socket disconnected [id: undefined] 
+22.10.2022, 23:05:01 - INFO - New connected socket [id: gnpLplXo8D2MRzBsAAAl] 
+22.10.2022, 23:12:32 - INFO - Socket disconnected [id: undefined] 
+22.10.2022, 23:12:32 - INFO - New connected socket [id: mM71bOH8E7Majhc9AAAn] 
+23.10.2022, 14:12:38 - INFO - Server is running on port: 3030 
+23.10.2022, 14:12:49 - INFO - New connected socket [id: tMRk7APUSmdrdyXVAAAB] 
+23.10.2022, 14:41:50 - INFO - Socket disconnected [id: undefined] 
+23.10.2022, 14:41:52 - INFO - New connected socket [id: KiqTRsFOyBCm8utqAAAD] 
+23.10.2022, 15:03:19 - INFO - Socket disconnected [id: undefined] 
+23.10.2022, 15:03:20 - INFO - New connected socket [id: MQnt6yQyiThyZeUAAAAF] 
+23.10.2022, 15:05:21 - INFO - Socket disconnected [id: undefined] 
+23.10.2022, 15:05:23 - INFO - New connected socket [id: 6L2-iCgnluMynnBYAAAH] 
+23.10.2022, 15:30:33 - INFO - New connected socket [id: I1XyXB1PnQM0BM7MAAAJ] 
+23.10.2022, 15:33:19 - DEBUG - auth.service - login with username: maayan 
+23.10.2022, 15:33:19 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} 
+23.10.2022, 15:33:19 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: 6L2-iCgnluMynnBYAAAH] 
+23.10.2022, 15:34:11 - INFO - Removing socket.userId for socket [id: 6L2-iCgnluMynnBYAAAH] 
+23.10.2022, 15:56:46 - INFO - Socket disconnected [id: undefined] 
+23.10.2022, 15:56:47 - INFO - New connected socket [id: 5brbTXJ1g4oAUCl6AAAL] 
+23.10.2022, 15:57:45 - INFO - Socket disconnected [id: undefined] 
+23.10.2022, 15:57:46 - INFO - New connected socket [id: 6HPB2XyGtXEmwDEFAAAN] 
+23.10.2022, 16:00:59 - INFO - Socket disconnected [id: undefined] 
+23.10.2022, 16:01:00 - INFO - New connected socket [id: ZD3-C6mVq2o1cS88AAAP] 
+23.10.2022, 16:02:48 - INFO - Socket disconnected [id: undefined] 
+23.10.2022, 16:02:49 - INFO - New connected socket [id: nyyu9em8t90pbQN7AAAR] 
+23.10.2022, 16:03:31 - INFO - Socket disconnected [id: undefined] 
+23.10.2022, 16:03:32 - INFO - New connected socket [id: PUVKVpCFXREHCy4hAAAT] 
+23.10.2022, 16:06:29 - INFO - Socket disconnected [id: undefined] 
+23.10.2022, 16:06:29 - INFO - New connected socket [id: N_5BjJObuio4HM9fAAAV] 
+23.10.2022, 16:07:04 - INFO - Socket disconnected [id: undefined] 
+23.10.2022, 16:07:05 - INFO - New connected socket [id: UoGu_MFMalEY6UeQAAAX] 
+23.10.2022, 16:07:25 - DEBUG - auth.service - login with username: user1 
+23.10.2022, 16:07:25 - ERROR - Failed to Login Invalid username or password 
+23.10.2022, 16:07:36 - DEBUG - auth.service - login with username: user1 
+23.10.2022, 16:07:36 - ERROR - Failed to Login Invalid username or password 
+23.10.2022, 16:07:39 - DEBUG - auth.service - login with username: user1 
+23.10.2022, 16:07:39 - ERROR - Failed to Login Invalid username or password 
+23.10.2022, 16:07:39 - DEBUG - auth.service - login with username: user1 
+23.10.2022, 16:07:39 - ERROR - Failed to Login Invalid username or password 
+23.10.2022, 16:07:43 - DEBUG - auth.service - login with username: user1 
+23.10.2022, 16:07:43 - ERROR - Failed to Login Invalid username or password 
+23.10.2022, 16:07:52 - DEBUG - auth.service - login with username: maayan 
+23.10.2022, 16:07:52 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} 
+23.10.2022, 16:07:52 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: UoGu_MFMalEY6UeQAAAX] 
+23.10.2022, 16:07:57 - INFO - Socket disconnected [id: undefined] 
+23.10.2022, 16:07:58 - INFO - New connected socket [id: CHpVg4h3YJkSEBoPAAAZ] 
+23.10.2022, 16:07:58 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: CHpVg4h3YJkSEBoPAAAZ] 
+23.10.2022, 16:08:23 - INFO - Socket disconnected [id: undefined] 
+23.10.2022, 16:08:24 - INFO - New connected socket [id: KCohs4tbA3h3IKjtAAAb] 
+23.10.2022, 16:08:24 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: KCohs4tbA3h3IKjtAAAb] 
+23.10.2022, 16:11:08 - DEBUG - auth.service - login with username: maayan (userId: 62fd0727ee01b39867e35384)
+23.10.2022, 16:11:08 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} (userId: 62fd0727ee01b39867e35384)
+23.10.2022, 16:11:08 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: KCohs4tbA3h3IKjtAAAb] 
+23.10.2022, 16:11:11 - DEBUG - auth.service - login with username: maayan (userId: 62fd0727ee01b39867e35384)
+23.10.2022, 16:11:11 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} (userId: 62fd0727ee01b39867e35384)
+23.10.2022, 16:11:11 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: KCohs4tbA3h3IKjtAAAb] 
+23.10.2022, 16:14:03 - INFO - Socket disconnected [id: undefined] 
+23.10.2022, 16:14:03 - INFO - New connected socket [id: kDD9a97kGlzkwmMzAAAd] 
+23.10.2022, 16:14:04 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: kDD9a97kGlzkwmMzAAAd] 
+23.10.2022, 16:15:02 - INFO - Socket disconnected [id: undefined] 
+23.10.2022, 16:15:02 - INFO - New connected socket [id: x5vfXa8wB9zQ05iEAAAf] 
+23.10.2022, 16:15:03 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: x5vfXa8wB9zQ05iEAAAf] 
+23.10.2022, 16:15:13 - DEBUG - auth.service - login with username: user1 (userId: 62fd0727ee01b39867e35384)
+23.10.2022, 16:15:13 - ERROR - Failed to Login Invalid username or password (userId: 62fd0727ee01b39867e35384)
+23.10.2022, 16:15:15 - DEBUG - auth.service - login with username: user1 (userId: 62fd0727ee01b39867e35384)
+23.10.2022, 16:15:15 - ERROR - Failed to Login Invalid username or password (userId: 62fd0727ee01b39867e35384)
+23.10.2022, 16:15:20 - DEBUG - auth.service - login with username: user1 (userId: 62fd0727ee01b39867e35384)
+23.10.2022, 16:15:20 - ERROR - Failed to Login Invalid username or password (userId: 62fd0727ee01b39867e35384)
+23.10.2022, 16:15:22 - DEBUG - auth.service - login with username: user1 (userId: 62fd0727ee01b39867e35384)
+23.10.2022, 16:15:22 - ERROR - Failed to Login Invalid username or password (userId: 62fd0727ee01b39867e35384)
+23.10.2022, 16:15:33 - INFO - Socket disconnected [id: undefined] 
+23.10.2022, 16:15:34 - INFO - New connected socket [id: tKx6OlamCYrxMpQAAAAh] 
+23.10.2022, 16:15:34 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: tKx6OlamCYrxMpQAAAAh] 
+23.10.2022, 16:15:36 - INFO - Socket disconnected [id: undefined] 
+23.10.2022, 16:15:37 - INFO - New connected socket [id: kFf_b_0s1gMwnQn6AAAj] 
+23.10.2022, 16:15:37 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: kFf_b_0s1gMwnQn6AAAj] 
+23.10.2022, 16:15:46 - INFO - Socket disconnected [id: undefined] 
+23.10.2022, 16:16:14 - INFO - New connected socket [id: qR-wL-0BgZnbfUBEAAAl] 
+23.10.2022, 16:16:31 - DEBUG - auth.service - login with username: user1 (userId: 62fd0727ee01b39867e35384)
+23.10.2022, 16:16:31 - ERROR - Failed to Login Invalid username or password (userId: 62fd0727ee01b39867e35384)
+23.10.2022, 16:18:49 - DEBUG - auth.service - login with username: maayan (userId: 62fd0727ee01b39867e35384)
+23.10.2022, 16:18:49 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} (userId: 62fd0727ee01b39867e35384)
+23.10.2022, 16:18:49 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: qR-wL-0BgZnbfUBEAAAl] 
+23.10.2022, 16:19:03 - DEBUG - auth.service - login with username: the king (userId: 62fd0727ee01b39867e35384)
+23.10.2022, 16:19:03 - INFO - User login:  | {"_id":"62fd0771ee01b39867e35386","username":"the king","fullname":"elvis","imgUrl":null} (userId: 62fd0727ee01b39867e35384)
+23.10.2022, 16:19:03 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: qR-wL-0BgZnbfUBEAAAl] 
+23.10.2022, 16:19:15 - INFO - Removing socket.userId for socket [id: qR-wL-0BgZnbfUBEAAAl] 
+23.10.2022, 16:50:53 - DEBUG - auth.service - login with username: maayan 
+23.10.2022, 16:50:53 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} 
+23.10.2022, 16:50:53 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: qR-wL-0BgZnbfUBEAAAl] 
+23.10.2022, 16:51:44 - INFO - Removing socket.userId for socket [id: qR-wL-0BgZnbfUBEAAAl] 
+23.10.2022, 16:52:05 - DEBUG - auth.service - login with username: maayan 
+23.10.2022, 16:52:05 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} 
+23.10.2022, 16:52:05 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: qR-wL-0BgZnbfUBEAAAl] 
+23.10.2022, 16:54:43 - INFO - Removing socket.userId for socket [id: qR-wL-0BgZnbfUBEAAAl] 
+23.10.2022, 16:54:45 - DEBUG - auth.service - login with username: maayan 
+23.10.2022, 16:54:45 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} 
+23.10.2022, 16:54:45 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: qR-wL-0BgZnbfUBEAAAl] 
+23.10.2022, 16:54:47 - INFO - Removing socket.userId for socket [id: qR-wL-0BgZnbfUBEAAAl] 
+23.10.2022, 17:04:55 - DEBUG - auth.service - login with username: maayan 
+23.10.2022, 17:04:55 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} 
+23.10.2022, 17:04:55 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: qR-wL-0BgZnbfUBEAAAl] 
+23.10.2022, 17:12:24 - INFO - Removing socket.userId for socket [id: qR-wL-0BgZnbfUBEAAAl] 
+23.10.2022, 17:13:39 - INFO - Socket disconnected [id: undefined] 
+23.10.2022, 17:13:40 - INFO - New connected socket [id: uszpJxbXdEhOZLl8AAAn] 
+23.10.2022, 17:14:46 - DEBUG - auth.service - login with username: maayan 
+23.10.2022, 17:14:46 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} 
+23.10.2022, 17:14:46 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: uszpJxbXdEhOZLl8AAAn] 
+23.10.2022, 17:22:56 - INFO - Removing socket.userId for socket [id: uszpJxbXdEhOZLl8AAAn] 
+23.10.2022, 17:23:13 - DEBUG - auth.service - login with username: maayan 
+23.10.2022, 17:23:13 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} 
+23.10.2022, 17:23:13 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: uszpJxbXdEhOZLl8AAAn] 
+24.10.2022, 12:06:51 - INFO - Server is running on port: 3030 
+24.10.2022, 12:06:51 - INFO - New connected socket [id: zvUxvzxPVXIthLldAAAB] 
+24.10.2022, 12:06:56 - INFO - New connected socket [id: ES1Ye-kpetCLg3zdAAAD] 
+24.10.2022, 12:07:41 - INFO - Socket disconnected [id: undefined] 
+24.10.2022, 12:07:42 - INFO - Socket disconnected [id: undefined] 
+24.10.2022, 12:07:44 - INFO - New connected socket [id: ElBpfOjH6VJ_PzDiAAAG] 
+24.10.2022, 12:07:45 - INFO - New connected socket [id: hfIMtArH6kt5orTlAAAH] 
+24.10.2022, 12:07:48 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: ElBpfOjH6VJ_PzDiAAAG] 
+24.10.2022, 12:11:57 - INFO - Socket disconnected [id: undefined] 
+24.10.2022, 12:11:57 - INFO - New connected socket [id: uoOw06J58T9vOzT7AAAJ] 
+24.10.2022, 12:11:59 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: uoOw06J58T9vOzT7AAAJ] 
+24.10.2022, 12:15:57 - DEBUG - auth.service - login with username: maayan (userId: 62fd0727ee01b39867e35384)
+24.10.2022, 12:15:57 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} (userId: 62fd0727ee01b39867e35384)
+24.10.2022, 12:15:57 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: uoOw06J58T9vOzT7AAAJ] 
+24.10.2022, 12:15:59 - INFO - Removing socket.userId for socket [id: uoOw06J58T9vOzT7AAAJ] 
+24.10.2022, 12:54:30 - INFO - Socket disconnected [id: undefined] 
+24.10.2022, 12:54:31 - INFO - New connected socket [id: ToP3JnuaHLJdDGT3AAAL] 
+24.10.2022, 12:55:02 - INFO - Socket disconnected [id: undefined] 
+24.10.2022, 12:55:02 - INFO - New connected socket [id: 6bjnx3os6EmjyB01AAAN] 
+24.10.2022, 12:57:49 - DEBUG - auth.service - login with username: maayan 
+24.10.2022, 12:57:49 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} 
+24.10.2022, 12:57:49 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: 6bjnx3os6EmjyB01AAAN] 
+24.10.2022, 12:59:37 - INFO - Removing socket.userId for socket [id: 6bjnx3os6EmjyB01AAAN] 
+24.10.2022, 13:00:33 - INFO - Socket disconnected [id: undefined] 
+24.10.2022, 13:00:34 - INFO - New connected socket [id: 2WQbQDrB9MrwxWhxAAAP] 
+24.10.2022, 13:00:45 - DEBUG - auth.service - login with username: maayan 
+24.10.2022, 13:00:45 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} 
+24.10.2022, 13:00:45 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: 2WQbQDrB9MrwxWhxAAAP] 
+24.10.2022, 13:01:02 - INFO - Socket disconnected [id: undefined] 
+24.10.2022, 13:01:03 - INFO - New connected socket [id: _iCMDBA6aIof2ThpAAAR] 
+24.10.2022, 13:01:03 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: _iCMDBA6aIof2ThpAAAR] 
+24.10.2022, 13:01:25 - INFO - Socket disconnected [id: undefined] 
+24.10.2022, 13:01:26 - INFO - New connected socket [id: fFSBnf7oZqK0vqCUAAAT] 
+24.10.2022, 13:01:26 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: fFSBnf7oZqK0vqCUAAAT] 
+24.10.2022, 13:01:38 - DEBUG - auth.service - login with username: maayan (userId: 62fd0727ee01b39867e35384)
+24.10.2022, 13:01:38 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} (userId: 62fd0727ee01b39867e35384)
+24.10.2022, 13:01:38 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: fFSBnf7oZqK0vqCUAAAT] 
+24.10.2022, 13:01:44 - INFO - Removing socket.userId for socket [id: fFSBnf7oZqK0vqCUAAAT] 
+24.10.2022, 13:02:03 - DEBUG - auth.service - login with username: maayan 
+24.10.2022, 13:02:03 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} 
+24.10.2022, 13:02:03 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: fFSBnf7oZqK0vqCUAAAT] 
+24.10.2022, 13:02:20 - INFO - Removing socket.userId for socket [id: fFSBnf7oZqK0vqCUAAAT] 
+24.10.2022, 13:02:22 - INFO - Socket disconnected [id: undefined] 
+24.10.2022, 13:02:22 - INFO - New connected socket [id: -fmXMbCzpZdtz7SxAAAV] 
+24.10.2022, 13:02:43 - DEBUG - auth.service - login with username: maayan 
+24.10.2022, 13:02:44 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} 
+24.10.2022, 13:02:44 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: -fmXMbCzpZdtz7SxAAAV] 
+24.10.2022, 13:07:40 - INFO - Socket disconnected [id: undefined] 
+24.10.2022, 13:07:40 - INFO - New connected socket [id: 83Xemw4EeapUfT0-AAAX] 
+24.10.2022, 13:07:41 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: 83Xemw4EeapUfT0-AAAX] 
+24.10.2022, 13:09:55 - DEBUG - auth.service - login with username: maayan (userId: 62fd0727ee01b39867e35384)
+24.10.2022, 13:09:55 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} (userId: 62fd0727ee01b39867e35384)
+24.10.2022, 13:09:55 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: 83Xemw4EeapUfT0-AAAX] 
+24.10.2022, 13:09:59 - INFO - Removing socket.userId for socket [id: 83Xemw4EeapUfT0-AAAX] 
+24.10.2022, 13:10:14 - DEBUG - auth.service - login with username: maayan 
+24.10.2022, 13:10:14 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} 
+24.10.2022, 13:10:14 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: 83Xemw4EeapUfT0-AAAX] 
+24.10.2022, 13:19:10 - INFO - Socket disconnected [id: undefined] 
+24.10.2022, 13:19:11 - INFO - New connected socket [id: y3qoR5HUEj5f89sMAAAZ] 
+24.10.2022, 13:19:11 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: y3qoR5HUEj5f89sMAAAZ] 
+24.10.2022, 13:22:49 - INFO - Socket disconnected [id: undefined] 
+24.10.2022, 13:22:50 - INFO - New connected socket [id: hfLgdYn0Dp004cb_AAAb] 
+24.10.2022, 13:22:50 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: hfLgdYn0Dp004cb_AAAb] 
+24.10.2022, 13:23:08 - DEBUG - auth.service - login with username: maayan (userId: 62fd0727ee01b39867e35384)
+24.10.2022, 13:23:08 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} (userId: 62fd0727ee01b39867e35384)
+24.10.2022, 13:23:08 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: hfLgdYn0Dp004cb_AAAb] 
+24.10.2022, 13:23:12 - INFO - Removing socket.userId for socket [id: hfLgdYn0Dp004cb_AAAb] 
+24.10.2022, 13:28:17 - DEBUG - auth.service - login with username: maayan 
+24.10.2022, 13:28:17 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} 
+24.10.2022, 13:28:17 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: hfLgdYn0Dp004cb_AAAb] 
+24.10.2022, 13:32:30 - INFO - Removing socket.userId for socket [id: hfLgdYn0Dp004cb_AAAb] 
+24.10.2022, 13:32:42 - DEBUG - auth.service - login with username: maayan 
+24.10.2022, 13:32:42 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} 
+24.10.2022, 13:32:42 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: hfLgdYn0Dp004cb_AAAb] 
+24.10.2022, 13:33:47 - INFO - Socket disconnected [id: undefined] 
+24.10.2022, 13:33:48 - INFO - New connected socket [id: VgT_u765bCjjrKdjAAAd] 
+24.10.2022, 13:33:48 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: VgT_u765bCjjrKdjAAAd] 
+24.10.2022, 13:35:05 - INFO - Socket disconnected [id: undefined] 
+24.10.2022, 13:35:06 - INFO - New connected socket [id: eMUGXiMKP9qZKeNkAAAf] 
+24.10.2022, 13:35:06 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: eMUGXiMKP9qZKeNkAAAf] 
+24.10.2022, 13:36:30 - DEBUG - auth.service - login with username: maayan (userId: 62fd0727ee01b39867e35384)
+24.10.2022, 13:36:30 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} (userId: 62fd0727ee01b39867e35384)
+24.10.2022, 13:36:30 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: eMUGXiMKP9qZKeNkAAAf] 
+24.10.2022, 13:36:43 - INFO - Socket disconnected [id: undefined] 
+24.10.2022, 13:36:44 - INFO - New connected socket [id: IXA7ta1QCbOqby93AAAh] 
+24.10.2022, 13:36:44 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: IXA7ta1QCbOqby93AAAh] 
+24.10.2022, 13:37:28 - DEBUG - auth.service - login with username: maayan (userId: 62fd0727ee01b39867e35384)
+24.10.2022, 13:37:28 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} (userId: 62fd0727ee01b39867e35384)
+24.10.2022, 13:37:28 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: IXA7ta1QCbOqby93AAAh] 
+24.10.2022, 13:38:07 - INFO - Removing socket.userId for socket [id: IXA7ta1QCbOqby93AAAh] 
+24.10.2022, 13:38:08 - INFO - Removing socket.userId for socket [id: IXA7ta1QCbOqby93AAAh] 
+24.10.2022, 13:38:09 - INFO - Removing socket.userId for socket [id: IXA7ta1QCbOqby93AAAh] 
+24.10.2022, 13:38:09 - INFO - Removing socket.userId for socket [id: IXA7ta1QCbOqby93AAAh] 
+24.10.2022, 13:38:55 - INFO - Socket disconnected [id: undefined] 
+24.10.2022, 13:38:56 - INFO - New connected socket [id: MoXGtjr2KF5ffIHuAAAj] 
+24.10.2022, 13:39:54 - DEBUG - auth.service - login with username: maayan 
+24.10.2022, 13:39:55 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} 
+24.10.2022, 13:39:55 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: MoXGtjr2KF5ffIHuAAAj] 
+24.10.2022, 13:41:11 - INFO - Socket disconnected [id: undefined] 
+24.10.2022, 13:41:12 - INFO - New connected socket [id: MY7eAdF2ygpQcRjtAAAl] 
+24.10.2022, 13:41:12 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: MY7eAdF2ygpQcRjtAAAl] 
+24.10.2022, 13:41:25 - DEBUG - auth.service - login with username: maayan (userId: 62fd0727ee01b39867e35384)
+24.10.2022, 13:41:25 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} (userId: 62fd0727ee01b39867e35384)
+24.10.2022, 13:41:25 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: MY7eAdF2ygpQcRjtAAAl] 
+24.10.2022, 13:42:20 - INFO - Removing socket.userId for socket [id: MY7eAdF2ygpQcRjtAAAl] 
+24.10.2022, 13:42:23 - INFO - Removing socket.userId for socket [id: MY7eAdF2ygpQcRjtAAAl] 
+24.10.2022, 13:42:27 - INFO - Removing socket.userId for socket [id: MY7eAdF2ygpQcRjtAAAl] 
+24.10.2022, 13:43:21 - INFO - Removing socket.userId for socket [id: MY7eAdF2ygpQcRjtAAAl] 
+24.10.2022, 13:43:26 - INFO - Socket disconnected [id: undefined] 
+24.10.2022, 13:43:27 - INFO - New connected socket [id: mzHobk1-l1i27fuFAAAn] 
+24.10.2022, 13:43:37 - DEBUG - auth.service - login with username: maayan 
+24.10.2022, 13:43:37 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} 
+24.10.2022, 13:43:37 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: mzHobk1-l1i27fuFAAAn] 
+24.10.2022, 13:43:41 - INFO - Removing socket.userId for socket [id: mzHobk1-l1i27fuFAAAn] 
+24.10.2022, 13:44:42 - INFO - Removing socket.userId for socket [id: mzHobk1-l1i27fuFAAAn] 
+24.10.2022, 13:44:48 - DEBUG - auth.service - login with username: maayan 
+24.10.2022, 13:44:49 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} 
+24.10.2022, 13:44:49 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: mzHobk1-l1i27fuFAAAn] 
+24.10.2022, 13:44:56 - INFO - Removing socket.userId for socket [id: mzHobk1-l1i27fuFAAAn] 
+24.10.2022, 13:45:02 - DEBUG - auth.service - login with username: prince 
+24.10.2022, 13:45:02 - INFO - User login:  | {"_id":"62fe0014d8a5c09dbdb4bad4","username":"prince","fullname":"prince","imgUrl":null} 
+24.10.2022, 13:45:02 - INFO - Setting socket.userId = 62fe0014d8a5c09dbdb4bad4 for socket [id: mzHobk1-l1i27fuFAAAn] 
+24.10.2022, 14:18:01 - INFO - Server is running on port: 3030 
+24.10.2022, 14:18:33 - INFO - New connected socket [id: -XZmZPfRANDjCBy6AAAB] 
+24.10.2022, 14:18:59 - INFO - Socket disconnected [id: undefined] 
+24.10.2022, 14:19:00 - INFO - New connected socket [id: MYfzRpANY-Sonwo2AAAD] 
+24.10.2022, 14:19:33 - INFO - Socket disconnected [id: undefined] 
+24.10.2022, 14:19:34 - INFO - New connected socket [id: fiOO7i5t3zpFWDfIAAAF] 
+24.10.2022, 14:24:43 - INFO - Socket disconnected [id: undefined] 
+24.10.2022, 14:24:44 - INFO - New connected socket [id: Roa8REm4IvKeIEw1AAAH] 
+24.10.2022, 14:27:17 - INFO - Socket disconnected [id: undefined] 
+24.10.2022, 14:27:18 - INFO - New connected socket [id: -Y9wNGfRfNvW95cAAAAJ] 
+24.10.2022, 14:36:42 - INFO - Socket disconnected [id: undefined] 
+24.10.2022, 14:36:43 - INFO - New connected socket [id: U5QoZvgp9t5FI7aYAAAL] 
+24.10.2022, 14:41:34 - INFO - Socket disconnected [id: undefined] 
+24.10.2022, 14:43:16 - INFO - New connected socket [id: EtyQ73gQKtf8j037AAAN] 
+24.10.2022, 15:21:04 - DEBUG - auth.service - login with username: maayan 
+24.10.2022, 15:21:04 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} 
+24.10.2022, 15:21:04 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: EtyQ73gQKtf8j037AAAN] 
+24.10.2022, 15:22:24 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 12:15:52 - INFO - New connected socket [id: jqzeRbevitdGfwnqAAAP] 
+25.10.2022, 12:15:54 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 12:15:54 - INFO - New connected socket [id: lT-ygyT9sPLumiJoAAAR] 
+25.10.2022, 12:16:38 - INFO - Server is running on port: 3030 
+25.10.2022, 12:16:38 - INFO - New connected socket [id: BLErRl8NB52BZ6KZAAAB] 
+25.10.2022, 12:18:28 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 12:18:33 - INFO - New connected socket [id: BqSiJLedrxjeHxPxAAAD] 
+25.10.2022, 12:18:38 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: BqSiJLedrxjeHxPxAAAD] 
+25.10.2022, 12:19:15 - INFO - Removing socket.userId for socket [id: BqSiJLedrxjeHxPxAAAD] 
+25.10.2022, 12:29:58 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 12:30:03 - INFO - New connected socket [id: OOLqwZw4roxiK11tAAAF] 
+25.10.2022, 12:30:03 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 12:30:06 - INFO - New connected socket [id: -0r9anKlo2AvpV6xAAAH] 
+25.10.2022, 12:31:04 - DEBUG - auth.service - login with username: maayan 
+25.10.2022, 12:31:04 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} 
+25.10.2022, 12:31:04 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: -0r9anKlo2AvpV6xAAAH] 
+25.10.2022, 12:31:21 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 14:12:35 - INFO - New connected socket [id: ByXMmeKx8a72cSrzAAAJ] 
+25.10.2022, 14:13:42 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 14:13:45 - INFO - New connected socket [id: cJws_Q-finS7qr1YAAAL] 
+25.10.2022, 14:13:46 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: cJws_Q-finS7qr1YAAAL] 
+25.10.2022, 15:44:57 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 15:44:58 - INFO - New connected socket [id: LfZlzZIzst8HrRb8AAAN] 
+25.10.2022, 15:44:59 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: LfZlzZIzst8HrRb8AAAN] 
+25.10.2022, 15:45:06 - INFO - Removing socket.userId for socket [id: LfZlzZIzst8HrRb8AAAN] 
+25.10.2022, 15:45:21 - DEBUG - auth.service - login with username: maayan 
+25.10.2022, 15:45:21 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} 
+25.10.2022, 15:45:21 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: LfZlzZIzst8HrRb8AAAN] 
+25.10.2022, 15:45:43 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 15:45:44 - INFO - New connected socket [id: anFc_wBNFlsUpqCRAAAP] 
+25.10.2022, 15:45:45 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: anFc_wBNFlsUpqCRAAAP] 
+25.10.2022, 15:45:51 - INFO - Removing socket.userId for socket [id: anFc_wBNFlsUpqCRAAAP] 
+25.10.2022, 15:46:00 - DEBUG - auth.service - login with username: maayan 
+25.10.2022, 15:46:00 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} 
+25.10.2022, 15:46:00 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: anFc_wBNFlsUpqCRAAAP] 
+25.10.2022, 15:46:50 - INFO - Server is running on port: 3030 
+25.10.2022, 15:46:50 - INFO - New connected socket [id: oZfbf4FWaRQrNQHxAAAB] 
+25.10.2022, 15:47:01 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 15:47:02 - INFO - New connected socket [id: mXerlOw1UBoisFDoAAAD] 
+25.10.2022, 15:47:04 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: mXerlOw1UBoisFDoAAAD] 
+25.10.2022, 15:47:08 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 15:47:56 - INFO - Server is running on port: 3030 
+25.10.2022, 15:48:00 - INFO - New connected socket [id: qW3DTurlFNKAQV4MAAAB] 
+25.10.2022, 15:48:10 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 15:48:10 - INFO - New connected socket [id: -AwPvLg98tmcXUM0AAAD] 
+25.10.2022, 15:48:20 - DEBUG - auth.service - login with username: maayan (userId: 62fd0727ee01b39867e35384)
+25.10.2022, 15:48:21 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} (userId: 62fd0727ee01b39867e35384)
+25.10.2022, 15:48:21 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: -AwPvLg98tmcXUM0AAAD] 
+25.10.2022, 15:49:26 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 15:49:27 - INFO - New connected socket [id: rn36LqUXvKDv0PN2AAAF] 
+25.10.2022, 15:49:29 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: rn36LqUXvKDv0PN2AAAF] 
+25.10.2022, 15:49:51 - INFO - Server is running on port: 3030 
+25.10.2022, 15:50:17 - INFO - New connected socket [id: ZX4xecSfKzP_D1LyAAAB] 
+25.10.2022, 15:50:30 - DEBUG - auth.service - login with username: maayan (userId: 62fd0727ee01b39867e35384)
+25.10.2022, 15:50:30 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":null} (userId: 62fd0727ee01b39867e35384)
+25.10.2022, 15:50:30 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: ZX4xecSfKzP_D1LyAAAB] 
+25.10.2022, 15:54:36 - INFO - Server is running on port: 3030 
+25.10.2022, 15:54:48 - INFO - New connected socket [id: tODcMQJJA820AQvJAAAB] 
+25.10.2022, 15:54:56 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 15:54:57 - INFO - New connected socket [id: WAts7DEQl4lb74mJAAAD] 
+25.10.2022, 16:00:11 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 16:00:12 - INFO - New connected socket [id: -bHAfVQfkVdt9qYAAAAF] 
+25.10.2022, 16:02:35 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 16:02:36 - INFO - New connected socket [id: it01zjQaTiAar190AAAH] 
+25.10.2022, 16:05:47 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 16:05:48 - INFO - New connected socket [id: IJ4C5aG5PlSf53x4AAAJ] 
+25.10.2022, 16:06:15 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 16:06:15 - INFO - New connected socket [id: -y2XJN1A85aabwAfAAAL] 
+25.10.2022, 16:07:22 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 16:07:23 - INFO - New connected socket [id: CU220x3UUQ2PEii-AAAN] 
+25.10.2022, 16:07:25 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 16:07:26 - INFO - New connected socket [id: DIbS-M20QxBJajGvAAAP] 
+25.10.2022, 16:07:36 - DEBUG - auth.service - signup with username: s, fullname: ss (userId: 62fd0727ee01b39867e35384)
+25.10.2022, 16:07:36 - DEBUG - auth.route - new account created: {"username":"s","password":"$2b$10$vOnKad64GRCAm8zymbcDwu9Mm0VpdyWNzy8wlUbf4S7kiQgq97ZGK","fullname":"ss","_id":"6357df98eec9cd6970195ebf"} (userId: 62fd0727ee01b39867e35384)
+25.10.2022, 16:07:36 - DEBUG - auth.service - login with username: s (userId: 62fd0727ee01b39867e35384)
+25.10.2022, 16:07:36 - INFO - User signup: | {"_id":"6357df98eec9cd6970195ebf","username":"s","fullname":"ss","imgUrl":null} (userId: 62fd0727ee01b39867e35384)
+25.10.2022, 16:07:36 - INFO - Setting socket.userId = 6357df98eec9cd6970195ebf for socket [id: DIbS-M20QxBJajGvAAAP] 
+25.10.2022, 16:16:03 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 16:16:03 - INFO - New connected socket [id: YAlRG2K2OTxdA215AAAR] 
+25.10.2022, 16:16:04 - INFO - Setting socket.userId = 6357df98eec9cd6970195ebf for socket [id: YAlRG2K2OTxdA215AAAR] 
+25.10.2022, 16:16:37 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 16:16:37 - INFO - New connected socket [id: Fv0orWGTOtm4mgmoAAAT] 
+25.10.2022, 16:16:37 - INFO - Setting socket.userId = 6357df98eec9cd6970195ebf for socket [id: Fv0orWGTOtm4mgmoAAAT] 
+25.10.2022, 16:16:43 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 16:16:43 - INFO - New connected socket [id: AcJJFmvqHikRz6a_AAAV] 
+25.10.2022, 16:16:43 - INFO - Setting socket.userId = 6357df98eec9cd6970195ebf for socket [id: AcJJFmvqHikRz6a_AAAV] 
+25.10.2022, 16:16:45 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 16:16:45 - INFO - New connected socket [id: mIQMow11qmtwRznqAAAX] 
+25.10.2022, 16:16:45 - INFO - Setting socket.userId = 6357df98eec9cd6970195ebf for socket [id: mIQMow11qmtwRznqAAAX] 
+25.10.2022, 16:17:26 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 16:17:26 - INFO - New connected socket [id: lbXcIER7EFpcPuTjAAAZ] 
+25.10.2022, 16:17:27 - INFO - Setting socket.userId = 6357df98eec9cd6970195ebf for socket [id: lbXcIER7EFpcPuTjAAAZ] 
+25.10.2022, 16:17:59 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 16:18:00 - INFO - New connected socket [id: Kg3epJiHPMLrtbzbAAAb] 
+25.10.2022, 16:18:00 - INFO - Setting socket.userId = 6357df98eec9cd6970195ebf for socket [id: Kg3epJiHPMLrtbzbAAAb] 
+25.10.2022, 16:18:27 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 16:18:27 - INFO - New connected socket [id: 20EItpaBh_0yz1szAAAd] 
+25.10.2022, 16:18:28 - INFO - Setting socket.userId = 6357df98eec9cd6970195ebf for socket [id: 20EItpaBh_0yz1szAAAd] 
+25.10.2022, 16:20:03 - INFO - Server is running on port: 3030 
+25.10.2022, 16:20:06 - INFO - New connected socket [id: UlMCDGURVIo_9MlUAAAB] 
+25.10.2022, 16:20:06 - INFO - Setting socket.userId = 6357df98eec9cd6970195ebf for socket [id: UlMCDGURVIo_9MlUAAAB] 
+25.10.2022, 16:20:07 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 16:20:07 - INFO - New connected socket [id: g3DculPsWMoDOgImAAAD] 
+25.10.2022, 16:20:08 - INFO - Setting socket.userId = 6357df98eec9cd6970195ebf for socket [id: g3DculPsWMoDOgImAAAD] 
+25.10.2022, 16:20:34 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 16:21:39 - INFO - Server is running on port: 3030 
+25.10.2022, 16:21:50 - INFO - New connected socket [id: aSkUXh63W7IMivNcAAAB] 
+25.10.2022, 16:24:42 - INFO - Server is running on port: 3030 
+25.10.2022, 16:24:42 - INFO - New connected socket [id: 09Ivl1WN2uKEauhiAAAB] 
+25.10.2022, 16:24:45 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 16:24:46 - INFO - New connected socket [id: XSH0qcUYGFLQVgE_AAAD] 
+25.10.2022, 16:26:23 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 16:26:23 - INFO - New connected socket [id: WhS0OFddBPD7kW-AAAAF] 
+25.10.2022, 16:26:59 - INFO - Server is running on port: 3030 
+25.10.2022, 16:27:00 - INFO - New connected socket [id: SHjYhz1MXyQ-IE-jAAAB] 
+25.10.2022, 16:27:02 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 16:27:02 - INFO - New connected socket [id: 3hd2p9qleZ0JlpnhAAAD] 
+25.10.2022, 16:27:22 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 16:27:23 - INFO - New connected socket [id: XZrMQGU1KERTbxHUAAAF] 
+25.10.2022, 16:27:36 - INFO - Server is running on port: 3030 
+25.10.2022, 16:27:36 - INFO - New connected socket [id: STxANS4Gw7RoIVqJAAAB] 
+25.10.2022, 16:27:37 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 16:27:38 - INFO - New connected socket [id: EWyfdtQQUAgJJVKuAAAD] 
+25.10.2022, 16:29:22 - DEBUG - auth.service - login with username: maayan (userId: 6357df98eec9cd6970195ebf)
+25.10.2022, 16:29:22 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":"https://media.gq-magazine.co.uk/photos/5d13a04bb744d364a425653b/1:1/w_1280,h_1280,c_limit/The-Big-Lebowski-hp-GQ-25Feb16_rex_b.jpg"} (userId: 6357df98eec9cd6970195ebf)
+25.10.2022, 16:29:22 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: EWyfdtQQUAgJJVKuAAAD] 
+25.10.2022, 16:35:54 - DEBUG - auth.service - login with username: the king (userId: 62fd0727ee01b39867e35384)
+25.10.2022, 16:35:55 - INFO - User login:  | {"_id":"62fd0771ee01b39867e35386","username":"the king","fullname":"elvis","imgUrl":null} (userId: 62fd0727ee01b39867e35384)
+25.10.2022, 16:35:55 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: EWyfdtQQUAgJJVKuAAAD] 
+25.10.2022, 16:37:04 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 16:37:05 - INFO - New connected socket [id: zqgDZrCfouEdBhNUAAAF] 
+25.10.2022, 16:37:06 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: zqgDZrCfouEdBhNUAAAF] 
+25.10.2022, 16:37:11 - INFO - Removing socket.userId for socket [id: zqgDZrCfouEdBhNUAAAF] 
+25.10.2022, 16:37:13 - INFO - Removing socket.userId for socket [id: zqgDZrCfouEdBhNUAAAF] 
+25.10.2022, 16:37:23 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 16:37:24 - INFO - New connected socket [id: wD5-u0PScH-wxxUaAAAH] 
+25.10.2022, 16:37:42 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 16:37:42 - INFO - New connected socket [id: v_tYwcHDwnwd-0w3AAAJ] 
+25.10.2022, 16:38:09 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 16:38:10 - INFO - New connected socket [id: hE-rUrGXyCV2bSeqAAAL] 
+25.10.2022, 16:41:49 - DEBUG - auth.service - login with username: maayan 
+25.10.2022, 16:41:49 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":"https://media.gq-magazine.co.uk/photos/5d13a04bb744d364a425653b/1:1/w_1280,h_1280,c_limit/The-Big-Lebowski-hp-GQ-25Feb16_rex_b.jpg"} 
+25.10.2022, 16:41:49 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: hE-rUrGXyCV2bSeqAAAL] 
+25.10.2022, 16:42:17 - INFO - Removing socket.userId for socket [id: hE-rUrGXyCV2bSeqAAAL] 
+25.10.2022, 16:42:26 - DEBUG - auth.service - login with username: prince 
+25.10.2022, 16:42:27 - INFO - User login:  | {"_id":"62fe0014d8a5c09dbdb4bad4","username":"prince","fullname":"prince","imgUrl":null} 
+25.10.2022, 16:42:27 - INFO - Setting socket.userId = 62fe0014d8a5c09dbdb4bad4 for socket [id: hE-rUrGXyCV2bSeqAAAL] 
+25.10.2022, 16:42:31 - INFO - Removing socket.userId for socket [id: hE-rUrGXyCV2bSeqAAAL] 
+25.10.2022, 16:42:38 - DEBUG - auth.service - login with username: the king 
+25.10.2022, 16:42:38 - INFO - User login:  | {"_id":"62fd0771ee01b39867e35386","username":"the king","fullname":"elvis","imgUrl":"https://hips.hearstapps.com/hmg-prod/images/photo-of-elvis-presley-posed-studio-portrait-of-elvis-news-photo-84857388-1552512781.jpg?crop=0.794xw:1.00xh;0.0102xw,0&resize=640:*"} 
+25.10.2022, 16:42:38 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: hE-rUrGXyCV2bSeqAAAL] 
+25.10.2022, 16:46:33 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 16:46:34 - INFO - New connected socket [id: Fx774_jVRH7gCVrXAAAN] 
+25.10.2022, 16:46:35 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: Fx774_jVRH7gCVrXAAAN] 
+25.10.2022, 16:48:37 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 16:48:38 - INFO - New connected socket [id: QIAF63dpX38DbXWiAAAP] 
+25.10.2022, 16:48:38 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: QIAF63dpX38DbXWiAAAP] 
+25.10.2022, 17:04:31 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 17:04:32 - INFO - New connected socket [id: fEAKoFuCIbb38g7BAAAR] 
+25.10.2022, 17:04:34 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: fEAKoFuCIbb38g7BAAAR] 
+25.10.2022, 17:10:33 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 17:10:33 - INFO - New connected socket [id: UGLXEb4rpfFJ54O9AAAT] 
+25.10.2022, 17:10:35 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: UGLXEb4rpfFJ54O9AAAT] 
+25.10.2022, 17:25:00 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 17:25:01 - INFO - New connected socket [id: brhfwCyqmiYvR396AAAV] 
+25.10.2022, 17:25:02 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: brhfwCyqmiYvR396AAAV] 
+25.10.2022, 17:28:54 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 17:28:54 - INFO - New connected socket [id: ggwpKUergCW8dgvEAAAX] 
+25.10.2022, 17:28:55 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: ggwpKUergCW8dgvEAAAX] 
+25.10.2022, 17:30:54 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 17:30:55 - INFO - New connected socket [id: DfNorD_4Xmy6Q4G2AAAZ] 
+25.10.2022, 17:30:55 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: DfNorD_4Xmy6Q4G2AAAZ] 
+25.10.2022, 17:31:23 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 17:31:23 - INFO - New connected socket [id: j-w8Lv2SmV4mQU84AAAb] 
+25.10.2022, 17:31:24 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: j-w8Lv2SmV4mQU84AAAb] 
+25.10.2022, 17:40:14 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 17:40:15 - INFO - New connected socket [id: xbPeIgC2uclWiVYUAAAd] 
+25.10.2022, 17:40:16 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: xbPeIgC2uclWiVYUAAAd] 
+25.10.2022, 17:42:22 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 17:42:23 - INFO - New connected socket [id: 4b8fiu3vTdDb0lo9AAAf] 
+25.10.2022, 17:42:23 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: 4b8fiu3vTdDb0lo9AAAf] 
+25.10.2022, 17:44:08 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 17:44:09 - INFO - New connected socket [id: NIPuj4qkG8OS15v1AAAh] 
+25.10.2022, 17:44:09 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: NIPuj4qkG8OS15v1AAAh] 
+25.10.2022, 18:02:31 - DEBUG - auth.service - login with username: maayan (userId: 62fd0771ee01b39867e35386)
+25.10.2022, 18:02:32 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":"https://media.gq-magazine.co.uk/photos/5d13a04bb744d364a425653b/1:1/w_1280,h_1280,c_limit/The-Big-Lebowski-hp-GQ-25Feb16_rex_b.jpg"} (userId: 62fd0771ee01b39867e35386)
+25.10.2022, 18:02:32 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: NIPuj4qkG8OS15v1AAAh] 
+25.10.2022, 18:07:15 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 18:07:16 - INFO - New connected socket [id: 8loPDAswgGREWDVMAAAj] 
+25.10.2022, 18:07:16 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: 8loPDAswgGREWDVMAAAj] 
+25.10.2022, 18:07:28 - DEBUG - auth.service - login with username: the king (userId: 62fd0727ee01b39867e35384)
+25.10.2022, 18:07:28 - INFO - User login:  | {"_id":"62fd0771ee01b39867e35386","username":"the king","fullname":"elvis","imgUrl":"https://hips.hearstapps.com/hmg-prod/images/photo-of-elvis-presley-posed-studio-portrait-of-elvis-news-photo-84857388-1552512781.jpg?crop=0.794xw:1.00xh;0.0102xw,0&resize=640:*"} (userId: 62fd0727ee01b39867e35384)
+25.10.2022, 18:07:28 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: 8loPDAswgGREWDVMAAAj] 
+25.10.2022, 18:22:49 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 18:23:05 - INFO - New connected socket [id: KByzRdreDQWyiZZ0AAAl] 
+25.10.2022, 18:23:16 - DEBUG - auth.service - login with username: the king (userId: 62fd0771ee01b39867e35386)
+25.10.2022, 18:23:16 - INFO - User login:  | {"_id":"62fd0771ee01b39867e35386","username":"the king","fullname":"elvis","imgUrl":"https://hips.hearstapps.com/hmg-prod/images/photo-of-elvis-presley-posed-studio-portrait-of-elvis-news-photo-84857388-1552512781.jpg?crop=0.794xw:1.00xh;0.0102xw,0&resize=640:*"} (userId: 62fd0771ee01b39867e35386)
+25.10.2022, 18:23:16 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: KByzRdreDQWyiZZ0AAAl] 
+25.10.2022, 19:01:52 - DEBUG - auth.service - login with username: maayan (userId: 62fd0771ee01b39867e35386)
+25.10.2022, 19:01:52 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":"https://media.gq-magazine.co.uk/photos/5d13a04bb744d364a425653b/1:1/w_1280,h_1280,c_limit/The-Big-Lebowski-hp-GQ-25Feb16_rex_b.jpg"} (userId: 62fd0771ee01b39867e35386)
+25.10.2022, 19:01:52 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: KByzRdreDQWyiZZ0AAAl] 
+25.10.2022, 19:05:42 - INFO - Socket disconnected [id: undefined] 
+25.10.2022, 19:05:43 - INFO - New connected socket [id: iwcwGs8MFvLeUbTgAAAn] 
+25.10.2022, 19:05:43 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: iwcwGs8MFvLeUbTgAAAn] 
+25.10.2022, 19:22:20 - DEBUG - auth.service - login with username: the king (userId: 62fd0727ee01b39867e35384)
+25.10.2022, 19:22:20 - INFO - User login:  | {"_id":"62fd0771ee01b39867e35386","username":"the king","fullname":"elvis","imgUrl":"https://hips.hearstapps.com/hmg-prod/images/photo-of-elvis-presley-posed-studio-portrait-of-elvis-news-photo-84857388-1552512781.jpg?crop=0.794xw:1.00xh;0.0102xw,0&resize=640:*"} (userId: 62fd0727ee01b39867e35384)
+25.10.2022, 19:22:20 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: iwcwGs8MFvLeUbTgAAAn] 
+25.10.2022, 19:25:03 - INFO - Socket disconnected [id: undefined] 
+26.10.2022, 15:17:56 - INFO - Server is running on port: 3030 
+26.10.2022, 15:44:37 - INFO - New connected socket [id: YcbNKziqqfpAafk_AAAB] 
+26.10.2022, 15:46:28 - DEBUG - auth.service - login with username: maayan 
+26.10.2022, 15:46:28 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":"https://media.gq-magazine.co.uk/photos/5d13a04bb744d364a425653b/1:1/w_1280,h_1280,c_limit/The-Big-Lebowski-hp-GQ-25Feb16_rex_b.jpg"} 
+26.10.2022, 15:46:28 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: YcbNKziqqfpAafk_AAAB] 
+26.10.2022, 15:50:09 - INFO - Socket disconnected [id: undefined] 
+26.10.2022, 15:50:10 - INFO - New connected socket [id: XOWJG7gcD8iZLi4WAAAD] 
+26.10.2022, 15:50:10 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: XOWJG7gcD8iZLi4WAAAD] 
+26.10.2022, 15:50:30 - INFO - Socket disconnected [id: undefined] 
+26.10.2022, 15:50:31 - INFO - New connected socket [id: 4OWCzAC7YGFmU-O8AAAF] 
+26.10.2022, 15:50:31 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: 4OWCzAC7YGFmU-O8AAAF] 
+26.10.2022, 16:10:09 - INFO - Socket disconnected [id: undefined] 
+26.10.2022, 16:10:40 - INFO - New connected socket [id: 14gttRgBW_A7Qy6UAAAH] 
+26.10.2022, 16:10:42 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: 14gttRgBW_A7Qy6UAAAH] 
+26.10.2022, 16:15:53 - INFO - Socket disconnected [id: undefined] 
+26.10.2022, 16:15:54 - INFO - New connected socket [id: 7V22NEW9IBqRQYWpAAAJ] 
+26.10.2022, 16:15:54 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: 7V22NEW9IBqRQYWpAAAJ] 
+26.10.2022, 16:17:55 - DEBUG - auth.service - login with username: prince (userId: 62fd0727ee01b39867e35384)
+26.10.2022, 16:17:55 - INFO - User login:  | {"_id":"62fe0014d8a5c09dbdb4bad4","username":"prince","fullname":"prince","imgUrl":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theguardian.com%2Fmusic%2F2022%2Fjan%2F17%2Fprince-estate-valued-at-1564m-at-end-of-long-legal-battle&psig=AOvVaw3VEZFPc7YulfTJIIRrP8DF&ust=1666876635126000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOipj7_9_foCFQAAAAAdAAAAABAE"} (userId: 62fd0727ee01b39867e35384)
+26.10.2022, 16:17:55 - INFO - Setting socket.userId = 62fe0014d8a5c09dbdb4bad4 for socket [id: 7V22NEW9IBqRQYWpAAAJ] 
+26.10.2022, 16:18:00 - INFO - Socket disconnected [id: undefined] 
+26.10.2022, 16:18:01 - INFO - New connected socket [id: XfvTJKR6qQUIYp9NAAAL] 
+26.10.2022, 16:18:02 - INFO - Setting socket.userId = 62fe0014d8a5c09dbdb4bad4 for socket [id: XfvTJKR6qQUIYp9NAAAL] 
+26.10.2022, 16:19:02 - INFO - Socket disconnected [id: undefined] 
+26.10.2022, 16:19:03 - INFO - New connected socket [id: nM12DKXTN-LTKR-tAAAN] 
+26.10.2022, 16:19:04 - INFO - Setting socket.userId = 62fe0014d8a5c09dbdb4bad4 for socket [id: nM12DKXTN-LTKR-tAAAN] 
+26.10.2022, 16:20:21 - INFO - Socket disconnected [id: undefined] 
+26.10.2022, 16:20:22 - INFO - New connected socket [id: kYMMnS_CAnZd_sbDAAAP] 
+26.10.2022, 16:20:24 - INFO - Setting socket.userId = 62fe0014d8a5c09dbdb4bad4 for socket [id: kYMMnS_CAnZd_sbDAAAP] 
+26.10.2022, 16:20:32 - DEBUG - auth.service - login with username: maayan (userId: 62fe0014d8a5c09dbdb4bad4)
+26.10.2022, 16:20:32 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":"https://media.gq-magazine.co.uk/photos/5d13a04bb744d364a425653b/1:1/w_1280,h_1280,c_limit/The-Big-Lebowski-hp-GQ-25Feb16_rex_b.jpg"} (userId: 62fe0014d8a5c09dbdb4bad4)
+26.10.2022, 16:20:32 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: kYMMnS_CAnZd_sbDAAAP] 
+26.10.2022, 16:20:38 - DEBUG - auth.service - login with username: prince (userId: 62fd0727ee01b39867e35384)
+26.10.2022, 16:20:39 - INFO - User login:  | {"_id":"62fe0014d8a5c09dbdb4bad4","username":"prince","fullname":"prince","imgUrl":"https://p16-va-tiktok.ibyteimg.com/obj/musically-maliva-obj/5ee1d66ed1bbea9a6cdc936715ea3dbe"} (userId: 62fd0727ee01b39867e35384)
+26.10.2022, 16:20:39 - INFO - Setting socket.userId = 62fe0014d8a5c09dbdb4bad4 for socket [id: kYMMnS_CAnZd_sbDAAAP] 
+26.10.2022, 16:24:52 - DEBUG - auth.service - login with username: the king (userId: 62fe0014d8a5c09dbdb4bad4)
+26.10.2022, 16:24:52 - INFO - User login:  | {"_id":"62fd0771ee01b39867e35386","username":"the king","fullname":"elvis","imgUrl":"https://hips.hearstapps.com/hmg-prod/images/photo-of-elvis-presley-posed-studio-portrait-of-elvis-news-photo-84857388-1552512781.jpg?crop=0.794xw:1.00xh;0.0102xw,0&resize=640:*"} (userId: 62fe0014d8a5c09dbdb4bad4)
+26.10.2022, 16:24:52 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: kYMMnS_CAnZd_sbDAAAP] 
+26.10.2022, 16:25:25 - DEBUG - auth.service - login with username: prince (userId: 62fd0771ee01b39867e35386)
+26.10.2022, 16:25:25 - INFO - User login:  | {"_id":"62fe0014d8a5c09dbdb4bad4","username":"prince","fullname":"prince","imgUrl":"https://p16-va-tiktok.ibyteimg.com/obj/musically-maliva-obj/5ee1d66ed1bbea9a6cdc936715ea3dbe"} (userId: 62fd0771ee01b39867e35386)
+26.10.2022, 16:25:25 - INFO - Setting socket.userId = 62fe0014d8a5c09dbdb4bad4 for socket [id: kYMMnS_CAnZd_sbDAAAP] 
+26.10.2022, 16:25:43 - DEBUG - auth.service - login with username: maayan (userId: 62fe0014d8a5c09dbdb4bad4)
+26.10.2022, 16:25:43 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":"https://media.gq-magazine.co.uk/photos/5d13a04bb744d364a425653b/1:1/w_1280,h_1280,c_limit/The-Big-Lebowski-hp-GQ-25Feb16_rex_b.jpg"} (userId: 62fe0014d8a5c09dbdb4bad4)
+26.10.2022, 16:25:43 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: kYMMnS_CAnZd_sbDAAAP] 
+26.10.2022, 16:42:23 - INFO - Socket disconnected [id: undefined] 
+26.10.2022, 16:42:24 - INFO - New connected socket [id: U44zie7IWE20IHsyAAAR] 
+26.10.2022, 16:42:25 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: U44zie7IWE20IHsyAAAR] 
+26.10.2022, 17:26:22 - INFO - Socket disconnected [id: undefined] 
+26.10.2022, 17:26:23 - INFO - New connected socket [id: j9COYzAYUvf3WbmjAAAT] 
+26.10.2022, 17:26:23 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: j9COYzAYUvf3WbmjAAAT] 
+26.10.2022, 19:14:50 - INFO - Socket disconnected [id: undefined] 
+26.10.2022, 19:14:51 - INFO - New connected socket [id: -9bARcjjCayxm3U7AAAV] 
+26.10.2022, 19:14:51 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: -9bARcjjCayxm3U7AAAV] 
+26.10.2022, 19:39:48 - DEBUG - auth.service - login with username: the king (userId: 62fd0727ee01b39867e35384)
+26.10.2022, 19:39:48 - INFO - User login:  | {"_id":"62fd0771ee01b39867e35386","username":"the king","fullname":"elvis","imgUrl":"https://hips.hearstapps.com/hmg-prod/images/photo-of-elvis-presley-posed-studio-portrait-of-elvis-news-photo-84857388-1552512781.jpg?crop=0.794xw:1.00xh;0.0102xw,0&resize=640:*"} (userId: 62fd0727ee01b39867e35384)
+26.10.2022, 19:39:48 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: -9bARcjjCayxm3U7AAAV] 
+26.10.2022, 19:43:15 - INFO - Socket disconnected [id: undefined] 
+26.10.2022, 19:43:16 - INFO - New connected socket [id: kEJvW2GslWib1CqOAAAX] 
+26.10.2022, 19:43:16 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: kEJvW2GslWib1CqOAAAX] 
+26.10.2022, 19:57:04 - INFO - Socket disconnected [id: undefined] 
+26.10.2022, 19:57:05 - INFO - New connected socket [id: RVsBUnWWpZDY6rXWAAAZ] 
+26.10.2022, 19:57:05 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: RVsBUnWWpZDY6rXWAAAZ] 
+26.10.2022, 19:58:56 - INFO - Socket disconnected [id: undefined] 
+26.10.2022, 19:58:56 - INFO - New connected socket [id: DsM9r2Z9w9bkJtVLAAAb] 
+26.10.2022, 19:58:57 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: DsM9r2Z9w9bkJtVLAAAb] 
+26.10.2022, 20:00:27 - INFO - Socket disconnected [id: undefined] 
+26.10.2022, 20:00:28 - INFO - New connected socket [id: O9yGRc6EAHVqvtFTAAAd] 
+26.10.2022, 20:00:28 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: O9yGRc6EAHVqvtFTAAAd] 
+28.10.2022, 14:50:26 - INFO - Server is running on port: 3030 
+28.10.2022, 14:50:59 - INFO - New connected socket [id: SOVHWU4Hmtvc1c34AAAB] 
+28.10.2022, 14:51:21 - DEBUG - auth.service - login with username: maayan 
+28.10.2022, 14:51:21 - INFO - User login:  | {"_id":"62fd0727ee01b39867e35384","username":"maayan","fullname":"maayan","imgUrl":"https://media.gq-magazine.co.uk/photos/5d13a04bb744d364a425653b/1:1/w_1280,h_1280,c_limit/The-Big-Lebowski-hp-GQ-25Feb16_rex_b.jpg"} 
+28.10.2022, 14:51:21 - INFO - Setting socket.userId = 62fd0727ee01b39867e35384 for socket [id: SOVHWU4Hmtvc1c34AAAB] 
+28.10.2022, 14:51:47 - DEBUG - auth.service - login with username: the king (userId: 62fd0727ee01b39867e35384)
+28.10.2022, 14:51:47 - INFO - User login:  | {"_id":"62fd0771ee01b39867e35386","username":"the king","fullname":"elvis","imgUrl":"https://hips.hearstapps.com/hmg-prod/images/photo-of-elvis-presley-posed-studio-portrait-of-elvis-news-photo-84857388-1552512781.jpg?crop=0.794xw:1.00xh;0.0102xw,0&resize=640:*"} (userId: 62fd0727ee01b39867e35384)
+28.10.2022, 14:51:47 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: SOVHWU4Hmtvc1c34AAAB] 
+28.10.2022, 15:06:00 - INFO - Socket disconnected [id: undefined] 
+28.10.2022, 15:06:01 - INFO - New connected socket [id: 7Q_Q0uxVr5hPKSTFAAAD] 
+28.10.2022, 15:06:02 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: 7Q_Q0uxVr5hPKSTFAAAD] 
+28.10.2022, 15:18:19 - INFO - Socket disconnected [id: undefined] 
+28.10.2022, 15:18:21 - INFO - New connected socket [id: QyxmUh8CNsgxP9nwAAAF] 
+28.10.2022, 15:18:21 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: QyxmUh8CNsgxP9nwAAAF] 
+28.10.2022, 15:19:06 - INFO - Socket disconnected [id: undefined] 
+28.10.2022, 15:19:07 - INFO - New connected socket [id: YhbpTU0usu8c5VchAAAH] 
+28.10.2022, 15:19:08 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: YhbpTU0usu8c5VchAAAH] 
+28.10.2022, 15:20:14 - INFO - Socket disconnected [id: undefined] 
+28.10.2022, 15:20:15 - INFO - New connected socket [id: NjQHZuk1upwPuOwGAAAJ] 
+28.10.2022, 15:20:15 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: NjQHZuk1upwPuOwGAAAJ] 
+28.10.2022, 15:37:21 - INFO - Socket disconnected [id: undefined] 
+28.10.2022, 15:37:23 - INFO - New connected socket [id: FyXGTkmJjzCzj9d-AAAL] 
+28.10.2022, 15:37:23 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: FyXGTkmJjzCzj9d-AAAL] 
+28.10.2022, 15:37:28 - INFO - Socket disconnected [id: undefined] 
+28.10.2022, 15:37:29 - INFO - New connected socket [id: 38h_IJjosDA3ssbcAAAN] 
+28.10.2022, 15:37:29 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: 38h_IJjosDA3ssbcAAAN] 
+28.10.2022, 15:38:18 - INFO - Socket disconnected [id: undefined] 
+28.10.2022, 15:38:20 - INFO - New connected socket [id: noF61E4LmrzmyNEEAAAP] 
+28.10.2022, 15:38:20 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: noF61E4LmrzmyNEEAAAP] 
+28.10.2022, 15:38:30 - INFO - Socket disconnected [id: undefined] 
+28.10.2022, 15:38:32 - INFO - New connected socket [id: byeXIVuXWc3pCH9gAAAR] 
+28.10.2022, 15:38:33 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: byeXIVuXWc3pCH9gAAAR] 
+28.10.2022, 15:38:54 - INFO - Socket disconnected [id: undefined] 
+28.10.2022, 15:38:56 - INFO - Socket disconnected [id: undefined] 
+28.10.2022, 15:38:56 - INFO - New connected socket [id: l9B5xA-kAYWLaKcXAAAT] 
+28.10.2022, 15:38:57 - INFO - New connected socket [id: HjowNzs588c2gKXrAAAV] 
+28.10.2022, 15:39:00 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: HjowNzs588c2gKXrAAAV] 
+28.10.2022, 15:39:50 - INFO - Socket disconnected [id: undefined] 
+28.10.2022, 15:39:52 - INFO - New connected socket [id: 5-4AzbmLp1uFCPEXAAAX] 
+28.10.2022, 15:39:56 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: 5-4AzbmLp1uFCPEXAAAX] 
+28.10.2022, 15:39:56 - INFO - Socket disconnected [id: undefined] 
+28.10.2022, 15:39:58 - INFO - New connected socket [id: kK6cUSwcC_rn3lLIAAAZ] 
+28.10.2022, 15:39:58 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: kK6cUSwcC_rn3lLIAAAZ] 
+28.10.2022, 15:40:01 - INFO - Socket disconnected [id: undefined] 
+28.10.2022, 15:40:03 - INFO - New connected socket [id: ulMcFklVKkV6olhyAAAb] 
+28.10.2022, 15:40:03 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: ulMcFklVKkV6olhyAAAb] 
+28.10.2022, 15:48:57 - INFO - Socket disconnected [id: undefined] 
+28.10.2022, 15:48:58 - INFO - New connected socket [id: iV50gHAeS4_hZGHdAAAd] 
+28.10.2022, 15:48:58 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: iV50gHAeS4_hZGHdAAAd] 
+28.10.2022, 15:49:50 - INFO - Socket disconnected [id: undefined] 
+28.10.2022, 15:49:51 - INFO - New connected socket [id: UqWhnYKBBVTrkzK5AAAf] 
+28.10.2022, 15:49:51 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: UqWhnYKBBVTrkzK5AAAf] 
+28.10.2022, 15:50:46 - INFO - Socket disconnected [id: undefined] 
+28.10.2022, 15:50:47 - INFO - New connected socket [id: vHA6hJPWksz0IGPcAAAh] 
+28.10.2022, 15:50:48 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: vHA6hJPWksz0IGPcAAAh] 
+28.10.2022, 15:50:54 - INFO - Socket disconnected [id: undefined] 
+28.10.2022, 15:50:54 - INFO - New connected socket [id: RnNhDblSEdvw0b5_AAAj] 
+28.10.2022, 15:50:55 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: RnNhDblSEdvw0b5_AAAj] 
+28.10.2022, 16:04:38 - INFO - Socket disconnected [id: undefined] 
+28.10.2022, 16:04:42 - INFO - New connected socket [id: XeeT6kV_mlaLmMVSAAAl] 
+28.10.2022, 16:04:42 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: XeeT6kV_mlaLmMVSAAAl] 
+28.10.2022, 16:07:24 - INFO - Socket disconnected [id: undefined] 
+28.10.2022, 16:07:26 - INFO - New connected socket [id: JUeJAfu3QR0f6NImAAAn] 
+28.10.2022, 16:07:27 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: JUeJAfu3QR0f6NImAAAn] 
+28.10.2022, 16:07:43 - INFO - Socket disconnected [id: undefined] 
+28.10.2022, 16:07:43 - INFO - New connected socket [id: 7-HvvnniBOqwxjHqAAAp] 
+28.10.2022, 16:07:44 - INFO - Setting socket.userId = 62fd0771ee01b39867e35386 for socket [id: 7-HvvnniBOqwxjHqAAAp] 
+28.10.2022, 16:07:52 - INFO - Socket disconnected [id: undefined] 
+28.10.2022, 16:08:06 - INFO - New connected socket [id: aTl4BkwtW3Dg87pbAAAr] 
+28.10.2022, 16:08:36 - INFO - Socket disconnected [id: undefined] 
+28.10.2022, 16:08:37 - INFO - New connected socket [id: ax5C85X_4Ix3XE1EAAAt] 
+28.10.2022, 16:09:06 - INFO - Socket disconnected [id: undefined] 
+28.10.2022, 16:09:07 - INFO - New connected socket [id: Oq4EI2_PjsIeubnaAAAv] 
+28.10.2022, 16:09:16 - DEBUG - auth.service - login with username: prince (userId: 62fd0771ee01b39867e35386)
+28.10.2022, 16:09:16 - INFO - User login:  | {"_id":"62fe0014d8a5c09dbdb4bad4","username":"prince","fullname":"prince","imgUrl":"https://p16-va-tiktok.ibyteimg.com/obj/musically-maliva-obj/5ee1d66ed1bbea9a6cdc936715ea3dbe"} (userId: 62fd0771ee01b39867e35386)
+28.10.2022, 16:09:16 - INFO - Setting socket.userId = 62fe0014d8a5c09dbdb4bad4 for socket [id: Oq4EI2_PjsIeubnaAAAv] 
+28.10.2022, 16:15:57 - INFO - Socket disconnected [id: undefined] 
+28.10.2022, 16:18:04 - INFO - New connected socket [id: aiATbJeMW7ix8YC9AAAx] 
+28.10.2022, 16:18:04 - INFO - Setting socket.userId = 62fe0014d8a5c09dbdb4bad4 for socket [id: aiATbJeMW7ix8YC9AAAx] 

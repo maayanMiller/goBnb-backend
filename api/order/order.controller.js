@@ -19,7 +19,25 @@ async function addOrder(req, res) {
 	var loggedinUser = authService.validateToken(req.cookies.loginToken)
 	try {
 		const order = req.body
+		order.mainGuest.guestId = loggedinUser._id
 		const addedOrder = await orderService.add(order)
+		return res.json(addedOrder)
+	} catch (err) {
+		logger.error('Failed to add order', err)
+		res.status(500).send({err: 'Failed to add order'})
+	}
+}
+async function addReview(req, res) {
+	var loggedinUser = authService.validateToken(req.cookies.loginToken)
+	console.log('loggedinUser:', loggedinUser)
+	try {
+		const order = req.body
+		console.log('order:', order)
+		// this.newReview.by.fullname = this.loginUser.fullname
+		//   this.newReview.by.imgUrl = this.loginUser.imgUrl
+		//   this.newReview.by._id = this.loginUser._id
+		// order.mainGuest.guestId = loggedinUser._id
+		// const addedOrder = await orderService.add(order)
 		return res.json(addedOrder)
 	} catch (err) {
 		logger.error('Failed to add order', err)

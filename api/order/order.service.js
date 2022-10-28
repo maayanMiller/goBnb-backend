@@ -17,6 +17,7 @@ async function query(filterBy = {}) {
 }
 
 async function add(order) {
+	console.log('order:', order)
 	try {
 		const collection = await dbService.getCollection('order')
 		const addedOrder = await collection.insertOne(order)
